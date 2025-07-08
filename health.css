@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+                                                                                          
+}
+.A1{
+    color: white;
+    width: fit-content;
+    padding: 10px;
+    margin-left: 50px;
+    top: 600px;
+}
+h1{
+    display: inline;
+    margin-left: 50px;
+
+}
+.nav1{
+   background-color: rgb(211, 211, 250);
+   font-size: 22px;
+   word-spacing: 7px;
+   text-decoration: none;
+   margin-left: 450px;
+   color: rgb(14, 99, 179);
+   padding: 15px;
+   padding-right: 15px;
+   border-radius: 30px;
+   display: inline;
+   margin-top: 80px;
+   position: absolute;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+a:link {
+  text-decoration: none;
+}
+.A1{
+    background-color: rgb(8, 15, 77);
+    position: absolute;
+    margin-top: -530px;
+    color: white;
+    padding: 15px;
+    border-radius: 35px;
+}
+.A2{
+    background-color: rgb(168, 189, 247);
+    width: fit-content;
+    color: rgb(12, 12, 77);
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 75px;
+    font-size: 25px;
+    padding: 15px;
+    border-radius: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.A3{
+    position: absolute;
+    background-color: rgb(199, 199, 247);
+    border: 5px;
+    margin-left: 70px;
+    margin-top: 300px;
+    color: rgb(250, 250, 253);
+    background-image: linear-gradient(to right, rgb(4, 4, 65), rgb(134, 134, 233));
+    padding: 30px;
+    border-radius: 50px;
+}
+.Q1{
+    color: rgb(187, 187, 241);
+    border-style: solid;
+    border: 5px;
+    border-color: rgb(226, 17, 35);
+    font-size: 20px;
+    padding-left: 20px;
+}
+.B1{
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 760px;
+}
+.B2{
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 760px;
+}
+.B3{
+    position: absolute;
+    transform: translate(830px,760px);
+}
+.B4{
+    position: absolute;
+    transform: translate(1090px,760px);
+}
+.C1{
+    position: absolute;
+    background-color:  rgb(98, 235, 35);
+    transform: translate(20px,300px);
+    padding: 60px;
+    border-radius: 40px;
+}
+.C2{
+   position: absolute;
+    background-color: rgb(98, 235, 35);
+    transform: translate(460px,300px);
+    padding: 60px;
+    border-radius: 40px; 
+}
+.C3{
+    position: absolute;
+    background-color: rgb(98, 235, 35);
+    transform: translate(900px,300px);
+    padding: 60px;
+    border-radius: 40px; 
+}
